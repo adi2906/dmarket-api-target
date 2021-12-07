@@ -1,0 +1,27 @@
+{
+  "name": "dmarket-api-target",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adi2906/dmarket-api-target.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adi2906/dmarket-api-target/issues"
+  },
+  "homepage": "https://github.com/adi2906/dmarket-api-target#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "follow-redirects": "^1.14.5",
+    "nacl-signature": "^2.0.3",
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1"
+  }
+}
